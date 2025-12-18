@@ -43,7 +43,6 @@ Developed by:SHRUTHILAYA .A RegisterNumber:25018192
 **TIMING DIAGRAM FOR IP COUNTER**
 <img width="1461" height="856" alt="Screenshot 2025-12-18 214434" src="https://github.com/user-attachments/assets/5650934a-3879-4db5-946e-183db1e73f2e" />
 
-**TRUTH TABLE**
 
 **RESULTS**
 
